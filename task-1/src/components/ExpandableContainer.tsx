@@ -16,6 +16,7 @@ function ExpandableContainer({
   expanded = true,
 }: ExpandableContainerProps) {
   return (
+    
     <div className={`${className || ''}`}>
       <div className="flex items-center justify-between">{parentNode}</div>
       <div
