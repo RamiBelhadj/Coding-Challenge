@@ -1,0 +1,45 @@
+{
+  "parent_knowledge_id": null,
+  "title": "useful knowledge",
+  "id": "9ce4b214-c81b-4a04-8177-85d7a442498a",
+  "child_knowledge": [
+    {
+      "parent_knowledge_id": "9ce4b214-c81b-4a04-8177-85d7a442498a",
+      "title": "weak knowledge",
+      "id": "052b0621-af50-4ea7-a6cd-4391a7e6bf90",
+      "child_knowledge": [
+        {
+          "parent_knowledge_id": "052b0621-af50-4ea7-a6cd-4391a7e6bf90",
+          "title": "wild knowledge",
+          "id": "e85be70a-b518-4838-a6d1-44f050eb89d6",
+          "child_knowledge": [
+            {
+              "parent_knowledge_id": "e85be70a-b518-4838-a6d1-44f050eb89d6",
+              "title": "significant knowledge",
+              "id": "bc7e4d5f-7ee6-44e8-8838-143536dbe4cd",
+              "child_knowledge": []
+            }
+          ]
+        },
+        {
+          "parent_knowledge_id": "052b0621-af50-4ea7-a6cd-4391a7e6bf90",
+          "title": "consistent knowledge",
+          "id": "c401b67b-6eb6-4e60-a2c9-d459e4e7b65f",
+          "child_knowledge": []
+        }
+      ]
+    },
+    {
+      "parent_knowledge_id": "9ce4b214-c81b-4a04-8177-85d7a442498a",
+      "title": "worried knowledge",
+      "id": "b1261a17-0df7-4ff2-b4ac-e1dc40a2cbdc",
+      "child_knowledge": []
+    },
+    {
+      "parent_knowledge_id": "9ce4b214-c81b-4a04-8177-85d7a442498a",
+      "title": "adventurous knowledge",
+      "id": "d6147fe8-549a-453a-87e1-2fca5cd8797b",
+      "child_knowledge": []
+    }
+  ]
+}
