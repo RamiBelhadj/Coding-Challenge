@@ -1,377 +1,377 @@
 {
-  "data": {
-    "data_points": [
-      {
-        "message_id": "<BEZP281MB21025DC9CCB8A09199E2990DCAA49@BEZP281MB2102.DEUP281.PROD.OUTLOOK.COM>",
-        "account_id": "52df673a-dbb3-459a-8ecb-58a8dafea796",
-        "created_at": "2022-06-08T15:15:07.331984+00:00",
-        "id": "d7dac27f-326d-48e8-ab2c-65c9a64f1248",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB2684542755107B633D2D7EACBBA79@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "47872835-13d0-4231-b4fc-5d97aeba3c32",
-        "created_at": "2022-06-09T08:08:40.960144+00:00",
-        "id": "109be660-4cfa-477b-9fd6-73f9de579366",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB2684E59DACBB281B5DA37147BBA19@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "71772756-1aca-489f-8928-955f4457fb5a",
-        "created_at": "2022-06-09T08:42:50.68966+00:00",
-        "id": "0ef2d23b-af7e-42af-b3e5-66f95a641426",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB268466AC6C9CE8BDFEAB91A4BBD19@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "72e0390a-6f7e-4088-9960-a56007f5b023",
-        "created_at": "2022-06-09T08:42:50.166582+00:00",
-        "id": "82df875f-d3d3-45d1-b82a-93972352e106",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB26848C832F91E81F0E0C8EC0BBD19@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "7581ce3c-5d39-4b7c-b23d-f2a6a5f3aafd",
-        "created_at": "2022-06-09T08:42:50.431792+00:00",
-        "id": "b98de661-f56c-4c5b-8e38-e7ee3ccee90b",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ffa25d962-724bba55-aaad-4aa1-b3c4-25129e525d22-000000@eu-west-1.amazonses.com>",
-        "account_id": "299f832b-96d4-40ba-aa08-f25fd427a7ef",
-        "created_at": "2022-04-05T14:34:41.31222+00:00",
-        "id": "6a8b14c9-65a0-4b54-b1b8-8b8ab0cd0c37",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ff5459079-7b0513d9-d36d-4791-8df1-d6093a8ab353-000000@eu-west-1.amazonses.com>",
-        "account_id": "31e938e6-de38-49fd-bf13-e78b2a8280df",
-        "created_at": "2022-04-04T15:51:05.405931+00:00",
-        "id": "4d3c9db1-3a5c-426f-8f18-9cbe4c25c2f8",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ffa1f7f0d-88c66eb1-572c-4d17-9251-df171bf1fa71-000000@eu-west-1.amazonses.com>",
-        "account_id": "ce0aa395-ac3b-483b-b65f-fee9f44a2883",
-        "created_at": "2022-04-05T14:33:29.128343+00:00",
-        "id": "80b1720b-869d-435c-9e29-b28e02984934",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<199e59b2-5ea5-41eb-9028-e957897eb92c@Spark>",
-        "account_id": "d9310157-a95b-4b23-a093-87173304f677",
-        "created_at": "2022-03-29T15:29:09.136144+00:00",
-        "id": "adfc5b2c-6ea6-4436-b7b2-d44ce9a4c5b4",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ffa35d991-8f40fd3a-3051-451c-825e-f98c1824b343-000000@eu-west-1.amazonses.com>",
-        "account_id": "48d2eb2f-f53d-45c2-9a29-3b7db113386d",
-        "created_at": "2022-04-05T14:58:19.109598+00:00",
-        "id": "76c8753f-254d-4f37-aa5e-2f600e336ccd",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ffb299041-23425d57-0730-4ac3-88a2-4ab5b250f144-000000@eu-west-1.amazonses.com>",
-        "account_id": "bf629bf3-fb46-452b-8853-eb0c768869b9",
-        "created_at": "2022-04-05T19:18:08.932853+00:00",
-        "id": "3a464e7e-f464-465b-a4e8-6a7f64596e64",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ffe64ea28-064e1709-60c6-4063-833f-02288c5f241e-000000@eu-west-1.amazonses.com>",
-        "account_id": "00ceee0f-4e23-4411-a39f-649362063ff3",
-        "created_at": "2022-04-06T10:21:57.345345+00:00",
-        "id": "37137af3-350e-4e86-a689-b82b13b2b5c5",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017ffe9e28bb-7e3c3118-e4cb-44d9-b32a-771142959e60-000000@eu-west-1.amazonses.com>",
-        "account_id": "892c8049-bd5f-4c91-aa35-9d88b810c498",
-        "created_at": "2022-04-06T11:24:39.095132+00:00",
-        "id": "7cc21d0e-d6b4-4c4b-80ec-a2547a77be43",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102017fff5dd7a2-a5829184-a5bc-446c-89a7-cf5a550e2d86-000000@eu-west-1.amazonses.com>",
-        "account_id": "f4207832-46cc-4d26-86d6-b1e3c7e5aae7",
-        "created_at": "2022-04-06T14:59:43.08387+00:00",
-        "id": "0df9fec9-fb52-48fa-a9fb-e12af579fdd2",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018008d260cd-649db7a0-6815-40a6-94fb-94e47fff900c-000000@eu-west-1.amazonses.com>",
-        "account_id": "080448d9-904b-4d69-ac1c-b46334056c0f",
-        "created_at": "2022-04-08T11:01:20.661897+00:00",
-        "id": "295429d4-b699-4041-a6f6-d8f84a0a19d8",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018017ef1a02-1fdd58bc-1484-489d-a2ba-cd223e4e63a7-000000@eu-west-1.amazonses.com>",
-        "account_id": "296061fd-d113-495e-801e-9051ff7e63b7",
-        "created_at": "2022-04-11T09:23:18.788898+00:00",
-        "id": "23d4f6ac-171d-40ec-8f6e-483c2d504441",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018018ab01c4-04d6e8a5-f488-465c-9ac0-ac4927702ef1-000000@eu-west-1.amazonses.com>",
-        "account_id": "1e23f5b1-fc21-4db8-9bb7-44874591c5cf",
-        "created_at": "2022-04-11T12:53:57.890252+00:00",
-        "id": "36a733cc-1336-4b16-8652-4e63da773689",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180192fb260-09d7347a-92eb-4cb8-987a-7688ea148c45-000000@eu-west-1.amazonses.com>",
-        "account_id": "617e716b-f2e8-4f5b-a580-fde219223514",
-        "created_at": "2022-04-11T15:13:30.443727+00:00",
-        "id": "51489b36-c5a1-4791-8577-53f2648c63cd",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201801cf06de2-b6ada69f-6d95-4084-a9be-79d81e1ae614-000000@eu-west-1.amazonses.com>",
-        "account_id": "58b09b91-6696-4df3-b607-68b1783c35f6",
-        "created_at": "2022-04-12T08:46:36.180431+00:00",
-        "id": "92e7b0fa-687a-447f-81b4-4f598aeaed07",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201801d68a1a5-eb44c793-0a9c-4a2e-8393-c04af65707b5-000000@eu-west-1.amazonses.com>",
-        "account_id": "0ff625d0-9a21-4a5a-a5a3-0aae68389d15",
-        "created_at": "2022-04-12T11:00:20.602223+00:00",
-        "id": "c9a48926-ecf4-496a-8fd6-77f2f232c5be",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB2684FF81BE3FD76E35C48D7FBBD39@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "03d4ddc8-192a-43af-83c6-8fe4a53b5353",
-        "created_at": "2022-05-20T12:01:07.549787+00:00",
-        "id": "cff6c397-67b5-4688-94fd-80ceed919c71",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201801e54394c-64891c8a-a9d8-41c8-bf50-cba1560cd386-000000@eu-west-1.amazonses.com>",
-        "account_id": "d99802f7-1855-4f2e-83e1-3c45bbe654c1",
-        "created_at": "2022-04-12T15:15:56.139967+00:00",
-        "id": "b444e775-1603-4764-a27e-2c1f27592cdb",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB268449F6BAF5F5712C3DDED4BBD09@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "21784881-e32b-4bdc-8381-583adee0834e",
-        "created_at": "2022-05-19T13:13:49.982039+00:00",
-        "id": "5aa58dbb-e44f-4cda-bbff-2b7e0fa08d57",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201801e87ab54-09770413-434c-4b5f-a2ab-2fd7ae3bcd95-000000@eu-west-1.amazonses.com>",
-        "account_id": "9f396497-67b2-47e9-95ef-0e19d394b3d5",
-        "created_at": "2022-04-12T16:10:23.406654+00:00",
-        "id": "415b604b-4424-4cc1-a909-4f17df80ac19",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018023af6232-174451ea-e2b4-4756-bd14-4f1321bff7c1-000000@eu-west-1.amazonses.com>",
-        "account_id": "e8c9f82e-924e-445f-a5b6-2a58e4cc7096",
-        "created_at": "2022-04-13T17:06:49.123634+00:00",
-        "id": "ffae18b0-fae2-4def-b64f-5ab15de5780d",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018023e50fbf-14f3d2b3-6ea8-4763-8175-9741845ec253-000000@eu-west-1.amazonses.com>",
-        "account_id": "4c83de2f-404c-42fc-9b37-667bc4ed4fa2",
-        "created_at": "2022-04-13T17:08:02.714537+00:00",
-        "id": "a0188df9-9266-4e77-9793-b4d1c02b811d",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018027f145d6-4a00e1ff-3925-438d-bbe5-12cad21093dd-000000@eu-west-1.amazonses.com>",
-        "account_id": "753e508e-6fa5-4f5e-af93-c65fdc9cbfae",
-        "created_at": "2022-04-14T11:59:33.712744+00:00",
-        "id": "95555d27-4d2f-4e49-bb32-8c2e00d5adf4",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180412b59e6-707ad34b-917e-432e-8028-55069b39e5ac-000000@eu-west-1.amazonses.com>",
-        "account_id": "edd1ec24-def5-41f6-9d33-1824c092df10",
-        "created_at": "2022-04-19T09:33:35.630316+00:00",
-        "id": "ceb74a5c-2c31-48bd-8ad3-8e6debd49136",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180477673aa-8128a3d7-fab5-4a59-8ad8-21537f74d768-000000@eu-west-1.amazonses.com>",
-        "account_id": "5e6f0ee5-95a2-404d-9a82-3b78f1f1209d",
-        "created_at": "2022-04-20T15:01:00.673589+00:00",
-        "id": "e4b9435c-56a6-48eb-a4ba-2b7dbd1316ce",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB268486508B7EF53C06DD2F45BBCE9@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "a7657ba5-1029-46eb-b541-4b876cc64528",
-        "created_at": "2022-05-17T11:11:13.156593+00:00",
-        "id": "0a6af470-3102-45c1-b4a3-9444bbef00bc",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<19e442a3-6aa1-4d7e-8348-7cf846647d6b@Spark>",
-        "account_id": "4507c6ce-989f-4066-9cb9-1d41f56e12c4",
-        "created_at": "2022-04-13T12:37:34.448728+00:00",
-        "id": "6c369d2c-7a17-4f23-b64d-52692c73d5fe",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180477e4237-531c82c5-6009-4884-b779-51735efe9201-000000@eu-west-1.amazonses.com>",
-        "account_id": "c321e5ef-845a-4ca3-9d56-62d0fde61af6",
-        "created_at": "2022-04-20T15:10:55.444599+00:00",
-        "id": "853434df-384f-4a95-8076-8877d200c967",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018047a6a582-b0717be8-c7ef-4bd4-b5ec-780e5565d49c-000000@eu-west-1.amazonses.com>",
-        "account_id": "2c221fe7-5c1d-4d88-aa92-bbffafb83510",
-        "created_at": "2022-04-20T15:54:21.31818+00:00",
-        "id": "3cd5af53-27fc-405b-93fe-84658d1295ad",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201804c1dbeab-5c41ac98-de99-4b3d-9859-133d42dadd96-000000@eu-west-1.amazonses.com>",
-        "account_id": "db07d81b-c544-4315-bf86-c86431eb1241",
-        "created_at": "2022-04-21T12:42:07.452711+00:00",
-        "id": "8e1b2c7d-c283-435b-b007-9ab19ae5b0c8",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201804c3413a6-cd0c2cb8-7506-468e-82ba-ac0c5b94bb09-000000@eu-west-1.amazonses.com>",
-        "account_id": "7d2581b9-4905-42c0-8e4e-fd0b7bcc9ebc",
-        "created_at": "2022-04-21T13:06:58.577315+00:00",
-        "id": "82e689a1-223e-415e-b247-3b57e11c0e27",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018050915aa5-33d836ed-2277-4bb9-a46e-808ba464bf16-000000@eu-west-1.amazonses.com>",
-        "account_id": "c3020754-5ef3-4463-a9e0-f2b302de9da3",
-        "created_at": "2022-04-22T09:26:17.431503+00:00",
-        "id": "0910b121-3441-4855-aa8a-0a35559dc736",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180509ed921-5558b07f-119b-456e-a2ba-35d3a1256655-000000@eu-west-1.amazonses.com>",
-        "account_id": "bb6a6a47-9734-469b-8a27-c4ca82db14e9",
-        "created_at": "2022-04-22T09:40:36.459232+00:00",
-        "id": "ae5c0cde-46e5-45bd-be2a-6f886ddd3632",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180516eb227-bc46b480-a125-4405-bad4-9425941acbb5-000000@eu-west-1.amazonses.com>",
-        "account_id": "fc885dc9-ed2d-471f-a865-3821c065f706",
-        "created_at": "2022-04-22T13:28:42.443793+00:00",
-        "id": "fdc43e59-434b-4f8e-b44e-47f8edfba5b0",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<DB8PR10MB2684F713A2FEAE9068F6C4FBBBCE9@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
-        "account_id": "d3eb59ad-adc2-4369-a1cd-06f3cc961ecd",
-        "created_at": "2022-05-17T11:24:00.881918+00:00",
-        "id": "f8ff950b-b6cb-4bea-b273-bea7d3dd3f39",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018051e32b24-bc8bb5d2-6eca-45e6-90f5-9d73628f2e89-000000@eu-west-1.amazonses.com>",
-        "account_id": "5d0875f8-9396-4949-9058-eb5b766d9582",
-        "created_at": "2022-04-22T15:35:43.581284+00:00",
-        "id": "ac2509fa-8866-48a9-8463-9f915ca0443a",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018051f2c9fa-952f3ac3-2514-484b-b610-714bc37674d7-000000@eu-west-1.amazonses.com>",
-        "account_id": "17160aa8-3235-4032-88d1-09c3b62728a0",
-        "created_at": "2022-04-22T15:51:45.830014+00:00",
-        "id": "89fe019c-7286-4e72-b677-c71ed84cca81",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018051fc5a2c-a4d297fe-fe3f-4c79-9a5b-c71e7923cadc-000000@eu-west-1.amazonses.com>",
-        "account_id": "0665273f-e8de-4959-8309-756ddf291e10",
-        "created_at": "2022-04-22T16:01:36.804461+00:00",
-        "id": "3418ffa3-4693-43de-878d-44edae705359",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201805fd0528f-3ab36840-0646-4941-9205-4ea4b0f8a90c-000000@eu-west-1.amazonses.com>",
-        "account_id": "a8253359-983b-4180-bfb0-8f5bcff0ac8a",
-        "created_at": "2022-04-25T08:29:12.691734+00:00",
-        "id": "8856fe08-0352-4122-80cb-05b015b52169",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018051e32b24-bc8bb5d2-6eca-45e6-90f5-9d73628f2e89-000000@eu-west-1.amazonses.com>",
-        "account_id": "5d0875f8-9396-4949-9058-eb5b766d9582",
-        "created_at": "2022-04-25T08:35:25.891091+00:00",
-        "id": "65188a2f-5cf4-430d-824a-f7fcaf44025d",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180477673aa-8128a3d7-fab5-4a59-8ad8-21537f74d768-000000@eu-west-1.amazonses.com>",
-        "account_id": "5e6f0ee5-95a2-404d-9a82-3b78f1f1209d",
-        "created_at": "2022-04-25T08:35:31.795597+00:00",
-        "id": "bb98fad3-8ced-4571-8108-afaa57316c5a",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018047a6a582-b0717be8-c7ef-4bd4-b5ec-780e5565d49c-000000@eu-west-1.amazonses.com>",
-        "account_id": "2c221fe7-5c1d-4d88-aa92-bbffafb83510",
-        "created_at": "2022-04-25T08:35:37.633428+00:00",
-        "id": "a7cd9338-b936-4759-b1a4-1f512c3ac149",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018050915aa5-33d836ed-2277-4bb9-a46e-808ba464bf16-000000@eu-west-1.amazonses.com>",
-        "account_id": "c3020754-5ef3-4463-a9e0-f2b302de9da3",
-        "created_at": "2022-04-25T08:35:37.963088+00:00",
-        "id": "22587abd-ef29-4e86-8ccd-cff5f44dc424",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018051f2c9fa-952f3ac3-2514-484b-b610-714bc37674d7-000000@eu-west-1.amazonses.com>",
-        "account_id": "17160aa8-3235-4032-88d1-09c3b62728a0",
-        "created_at": "2022-04-25T08:35:38.260109+00:00",
-        "id": "16683032-b69f-4b3f-8d42-0540e7540e45",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201804c1dbeab-5c41ac98-de99-4b3d-9859-133d42dadd96-000000@eu-west-1.amazonses.com>",
-        "account_id": "db07d81b-c544-4315-bf86-c86431eb1241",
-        "created_at": "2022-04-25T08:35:45.192978+00:00",
-        "id": "74d5b5e9-eb6c-447c-92ad-9b63ad5153bd",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180509ed921-5558b07f-119b-456e-a2ba-35d3a1256655-000000@eu-west-1.amazonses.com>",
-        "account_id": "bb6a6a47-9734-469b-8a27-c4ca82db14e9",
-        "created_at": "2022-04-25T08:35:45.541501+00:00",
-        "id": "6974bd83-992a-483f-893d-bca77d1bd9bd",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<010201804c3413a6-cd0c2cb8-7506-468e-82ba-ac0c5b94bb09-000000@eu-west-1.amazonses.com>",
-        "account_id": "7d2581b9-4905-42c0-8e4e-fd0b7bcc9ebc",
-        "created_at": "2022-04-25T08:36:35.704013+00:00",
-        "id": "caa788d1-c60d-42e5-8f20-0b2a77bc0b2a",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<01020180516eb227-bc46b480-a125-4405-bad4-9425941acbb5-000000@eu-west-1.amazonses.com>",
-        "account_id": "fc885dc9-ed2d-471f-a865-3821c065f706",
-        "created_at": "2022-04-25T08:36:36.117401+00:00",
-        "id": "7a2fa195-7b73-4e94-a002-ae8ab033b314",
-        "data_point_type": "EMAIL"
-      },
-      {
-        "message_id": "<0102018051fc5a2c-a4d297fe-fe3f-4c79-9a5b-c71e7923cadc-000000@eu-west-1.amazonses.com>",
-        "account_id": "0665273f-e8de-4959-8309-756ddf291e10",
-        "created_at": "2022-04-25T08:36:36.329962+00:00",
-        "id": "e74b5f42-9f9c-41e6-8c38-23ea2c7cc28e",
-        "data_point_type": "EMAIL"
-      }
-    ]
-  }
+    "data": {
+        "data_points": [
+            {
+                "message_id": "<BEZP281MB21025DC9CCB8A09199E2990DCAA49@BEZP281MB2102.DEUP281.PROD.OUTLOOK.COM>",
+                "account_id": "52df673a-dbb3-459a-8ecb-58a8dafea796",
+                "created_at": "2022-06-08T15:15:07.331984+00:00",
+                "id": "d7dac27f-326d-48e8-ab2c-65c9a64f1248",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB2684542755107B633D2D7EACBBA79@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "47872835-13d0-4231-b4fc-5d97aeba3c32",
+                "created_at": "2022-06-09T08:08:40.960144+00:00",
+                "id": "109be660-4cfa-477b-9fd6-73f9de579366",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB2684E59DACBB281B5DA37147BBA19@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "71772756-1aca-489f-8928-955f4457fb5a",
+                "created_at": "2022-06-09T08:42:50.68966+00:00",
+                "id": "0ef2d23b-af7e-42af-b3e5-66f95a641426",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB268466AC6C9CE8BDFEAB91A4BBD19@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "72e0390a-6f7e-4088-9960-a56007f5b023",
+                "created_at": "2022-06-09T08:42:50.166582+00:00",
+                "id": "82df875f-d3d3-45d1-b82a-93972352e106",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB26848C832F91E81F0E0C8EC0BBD19@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "7581ce3c-5d39-4b7c-b23d-f2a6a5f3aafd",
+                "created_at": "2022-06-09T08:42:50.431792+00:00",
+                "id": "b98de661-f56c-4c5b-8e38-e7ee3ccee90b",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ffa25d962-724bba55-aaad-4aa1-b3c4-25129e525d22-000000@eu-west-1.amazonses.com>",
+                "account_id": "299f832b-96d4-40ba-aa08-f25fd427a7ef",
+                "created_at": "2022-04-05T14:34:41.31222+00:00",
+                "id": "6a8b14c9-65a0-4b54-b1b8-8b8ab0cd0c37",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ff5459079-7b0513d9-d36d-4791-8df1-d6093a8ab353-000000@eu-west-1.amazonses.com>",
+                "account_id": "31e938e6-de38-49fd-bf13-e78b2a8280df",
+                "created_at": "2022-04-04T15:51:05.405931+00:00",
+                "id": "4d3c9db1-3a5c-426f-8f18-9cbe4c25c2f8",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ffa1f7f0d-88c66eb1-572c-4d17-9251-df171bf1fa71-000000@eu-west-1.amazonses.com>",
+                "account_id": "ce0aa395-ac3b-483b-b65f-fee9f44a2883",
+                "created_at": "2022-04-05T14:33:29.128343+00:00",
+                "id": "80b1720b-869d-435c-9e29-b28e02984934",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<199e59b2-5ea5-41eb-9028-e957897eb92c@Spark>",
+                "account_id": "d9310157-a95b-4b23-a093-87173304f677",
+                "created_at": "2022-03-29T15:29:09.136144+00:00",
+                "id": "adfc5b2c-6ea6-4436-b7b2-d44ce9a4c5b4",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ffa35d991-8f40fd3a-3051-451c-825e-f98c1824b343-000000@eu-west-1.amazonses.com>",
+                "account_id": "48d2eb2f-f53d-45c2-9a29-3b7db113386d",
+                "created_at": "2022-04-05T14:58:19.109598+00:00",
+                "id": "76c8753f-254d-4f37-aa5e-2f600e336ccd",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ffb299041-23425d57-0730-4ac3-88a2-4ab5b250f144-000000@eu-west-1.amazonses.com>",
+                "account_id": "bf629bf3-fb46-452b-8853-eb0c768869b9",
+                "created_at": "2022-04-05T19:18:08.932853+00:00",
+                "id": "3a464e7e-f464-465b-a4e8-6a7f64596e64",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ffe64ea28-064e1709-60c6-4063-833f-02288c5f241e-000000@eu-west-1.amazonses.com>",
+                "account_id": "00ceee0f-4e23-4411-a39f-649362063ff3",
+                "created_at": "2022-04-06T10:21:57.345345+00:00",
+                "id": "37137af3-350e-4e86-a689-b82b13b2b5c5",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017ffe9e28bb-7e3c3118-e4cb-44d9-b32a-771142959e60-000000@eu-west-1.amazonses.com>",
+                "account_id": "892c8049-bd5f-4c91-aa35-9d88b810c498",
+                "created_at": "2022-04-06T11:24:39.095132+00:00",
+                "id": "7cc21d0e-d6b4-4c4b-80ec-a2547a77be43",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102017fff5dd7a2-a5829184-a5bc-446c-89a7-cf5a550e2d86-000000@eu-west-1.amazonses.com>",
+                "account_id": "f4207832-46cc-4d26-86d6-b1e3c7e5aae7",
+                "created_at": "2022-04-06T14:59:43.08387+00:00",
+                "id": "0df9fec9-fb52-48fa-a9fb-e12af579fdd2",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018008d260cd-649db7a0-6815-40a6-94fb-94e47fff900c-000000@eu-west-1.amazonses.com>",
+                "account_id": "080448d9-904b-4d69-ac1c-b46334056c0f",
+                "created_at": "2022-04-08T11:01:20.661897+00:00",
+                "id": "295429d4-b699-4041-a6f6-d8f84a0a19d8",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018017ef1a02-1fdd58bc-1484-489d-a2ba-cd223e4e63a7-000000@eu-west-1.amazonses.com>",
+                "account_id": "296061fd-d113-495e-801e-9051ff7e63b7",
+                "created_at": "2022-04-11T09:23:18.788898+00:00",
+                "id": "23d4f6ac-171d-40ec-8f6e-483c2d504441",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018018ab01c4-04d6e8a5-f488-465c-9ac0-ac4927702ef1-000000@eu-west-1.amazonses.com>",
+                "account_id": "1e23f5b1-fc21-4db8-9bb7-44874591c5cf",
+                "created_at": "2022-04-11T12:53:57.890252+00:00",
+                "id": "36a733cc-1336-4b16-8652-4e63da773689",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180192fb260-09d7347a-92eb-4cb8-987a-7688ea148c45-000000@eu-west-1.amazonses.com>",
+                "account_id": "617e716b-f2e8-4f5b-a580-fde219223514",
+                "created_at": "2022-04-11T15:13:30.443727+00:00",
+                "id": "51489b36-c5a1-4791-8577-53f2648c63cd",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201801cf06de2-b6ada69f-6d95-4084-a9be-79d81e1ae614-000000@eu-west-1.amazonses.com>",
+                "account_id": "58b09b91-6696-4df3-b607-68b1783c35f6",
+                "created_at": "2022-04-12T08:46:36.180431+00:00",
+                "id": "92e7b0fa-687a-447f-81b4-4f598aeaed07",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201801d68a1a5-eb44c793-0a9c-4a2e-8393-c04af65707b5-000000@eu-west-1.amazonses.com>",
+                "account_id": "0ff625d0-9a21-4a5a-a5a3-0aae68389d15",
+                "created_at": "2022-04-12T11:00:20.602223+00:00",
+                "id": "c9a48926-ecf4-496a-8fd6-77f2f232c5be",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB2684FF81BE3FD76E35C48D7FBBD39@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "03d4ddc8-192a-43af-83c6-8fe4a53b5353",
+                "created_at": "2022-05-20T12:01:07.549787+00:00",
+                "id": "cff6c397-67b5-4688-94fd-80ceed919c71",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201801e54394c-64891c8a-a9d8-41c8-bf50-cba1560cd386-000000@eu-west-1.amazonses.com>",
+                "account_id": "d99802f7-1855-4f2e-83e1-3c45bbe654c1",
+                "created_at": "2022-04-12T15:15:56.139967+00:00",
+                "id": "b444e775-1603-4764-a27e-2c1f27592cdb",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB268449F6BAF5F5712C3DDED4BBD09@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "21784881-e32b-4bdc-8381-583adee0834e",
+                "created_at": "2022-05-19T13:13:49.982039+00:00",
+                "id": "5aa58dbb-e44f-4cda-bbff-2b7e0fa08d57",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201801e87ab54-09770413-434c-4b5f-a2ab-2fd7ae3bcd95-000000@eu-west-1.amazonses.com>",
+                "account_id": "9f396497-67b2-47e9-95ef-0e19d394b3d5",
+                "created_at": "2022-04-12T16:10:23.406654+00:00",
+                "id": "415b604b-4424-4cc1-a909-4f17df80ac19",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018023af6232-174451ea-e2b4-4756-bd14-4f1321bff7c1-000000@eu-west-1.amazonses.com>",
+                "account_id": "e8c9f82e-924e-445f-a5b6-2a58e4cc7096",
+                "created_at": "2022-04-13T17:06:49.123634+00:00",
+                "id": "ffae18b0-fae2-4def-b64f-5ab15de5780d",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018023e50fbf-14f3d2b3-6ea8-4763-8175-9741845ec253-000000@eu-west-1.amazonses.com>",
+                "account_id": "4c83de2f-404c-42fc-9b37-667bc4ed4fa2",
+                "created_at": "2022-04-13T17:08:02.714537+00:00",
+                "id": "a0188df9-9266-4e77-9793-b4d1c02b811d",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018027f145d6-4a00e1ff-3925-438d-bbe5-12cad21093dd-000000@eu-west-1.amazonses.com>",
+                "account_id": "753e508e-6fa5-4f5e-af93-c65fdc9cbfae",
+                "created_at": "2022-04-14T11:59:33.712744+00:00",
+                "id": "95555d27-4d2f-4e49-bb32-8c2e00d5adf4",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180412b59e6-707ad34b-917e-432e-8028-55069b39e5ac-000000@eu-west-1.amazonses.com>",
+                "account_id": "edd1ec24-def5-41f6-9d33-1824c092df10",
+                "created_at": "2022-04-19T09:33:35.630316+00:00",
+                "id": "ceb74a5c-2c31-48bd-8ad3-8e6debd49136",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180477673aa-8128a3d7-fab5-4a59-8ad8-21537f74d768-000000@eu-west-1.amazonses.com>",
+                "account_id": "5e6f0ee5-95a2-404d-9a82-3b78f1f1209d",
+                "created_at": "2022-04-20T15:01:00.673589+00:00",
+                "id": "e4b9435c-56a6-48eb-a4ba-2b7dbd1316ce",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB268486508B7EF53C06DD2F45BBCE9@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "a7657ba5-1029-46eb-b541-4b876cc64528",
+                "created_at": "2022-05-17T11:11:13.156593+00:00",
+                "id": "0a6af470-3102-45c1-b4a3-9444bbef00bc",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<19e442a3-6aa1-4d7e-8348-7cf846647d6b@Spark>",
+                "account_id": "4507c6ce-989f-4066-9cb9-1d41f56e12c4",
+                "created_at": "2022-04-13T12:37:34.448728+00:00",
+                "id": "6c369d2c-7a17-4f23-b64d-52692c73d5fe",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180477e4237-531c82c5-6009-4884-b779-51735efe9201-000000@eu-west-1.amazonses.com>",
+                "account_id": "c321e5ef-845a-4ca3-9d56-62d0fde61af6",
+                "created_at": "2022-04-20T15:10:55.444599+00:00",
+                "id": "853434df-384f-4a95-8076-8877d200c967",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018047a6a582-b0717be8-c7ef-4bd4-b5ec-780e5565d49c-000000@eu-west-1.amazonses.com>",
+                "account_id": "2c221fe7-5c1d-4d88-aa92-bbffafb83510",
+                "created_at": "2022-04-20T15:54:21.31818+00:00",
+                "id": "3cd5af53-27fc-405b-93fe-84658d1295ad",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201804c1dbeab-5c41ac98-de99-4b3d-9859-133d42dadd96-000000@eu-west-1.amazonses.com>",
+                "account_id": "db07d81b-c544-4315-bf86-c86431eb1241",
+                "created_at": "2022-04-21T12:42:07.452711+00:00",
+                "id": "8e1b2c7d-c283-435b-b007-9ab19ae5b0c8",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201804c3413a6-cd0c2cb8-7506-468e-82ba-ac0c5b94bb09-000000@eu-west-1.amazonses.com>",
+                "account_id": "7d2581b9-4905-42c0-8e4e-fd0b7bcc9ebc",
+                "created_at": "2022-04-21T13:06:58.577315+00:00",
+                "id": "82e689a1-223e-415e-b247-3b57e11c0e27",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018050915aa5-33d836ed-2277-4bb9-a46e-808ba464bf16-000000@eu-west-1.amazonses.com>",
+                "account_id": "c3020754-5ef3-4463-a9e0-f2b302de9da3",
+                "created_at": "2022-04-22T09:26:17.431503+00:00",
+                "id": "0910b121-3441-4855-aa8a-0a35559dc736",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180509ed921-5558b07f-119b-456e-a2ba-35d3a1256655-000000@eu-west-1.amazonses.com>",
+                "account_id": "bb6a6a47-9734-469b-8a27-c4ca82db14e9",
+                "created_at": "2022-04-22T09:40:36.459232+00:00",
+                "id": "ae5c0cde-46e5-45bd-be2a-6f886ddd3632",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180516eb227-bc46b480-a125-4405-bad4-9425941acbb5-000000@eu-west-1.amazonses.com>",
+                "account_id": "fc885dc9-ed2d-471f-a865-3821c065f706",
+                "created_at": "2022-04-22T13:28:42.443793+00:00",
+                "id": "fdc43e59-434b-4f8e-b44e-47f8edfba5b0",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<DB8PR10MB2684F713A2FEAE9068F6C4FBBBCE9@DB8PR10MB2684.EURPRD10.PROD.OUTLOOK.COM>",
+                "account_id": "d3eb59ad-adc2-4369-a1cd-06f3cc961ecd",
+                "created_at": "2022-05-17T11:24:00.881918+00:00",
+                "id": "f8ff950b-b6cb-4bea-b273-bea7d3dd3f39",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018051e32b24-bc8bb5d2-6eca-45e6-90f5-9d73628f2e89-000000@eu-west-1.amazonses.com>",
+                "account_id": "5d0875f8-9396-4949-9058-eb5b766d9582",
+                "created_at": "2022-04-22T15:35:43.581284+00:00",
+                "id": "ac2509fa-8866-48a9-8463-9f915ca0443a",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018051f2c9fa-952f3ac3-2514-484b-b610-714bc37674d7-000000@eu-west-1.amazonses.com>",
+                "account_id": "17160aa8-3235-4032-88d1-09c3b62728a0",
+                "created_at": "2022-04-22T15:51:45.830014+00:00",
+                "id": "89fe019c-7286-4e72-b677-c71ed84cca81",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018051fc5a2c-a4d297fe-fe3f-4c79-9a5b-c71e7923cadc-000000@eu-west-1.amazonses.com>",
+                "account_id": "0665273f-e8de-4959-8309-756ddf291e10",
+                "created_at": "2022-04-22T16:01:36.804461+00:00",
+                "id": "3418ffa3-4693-43de-878d-44edae705359",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201805fd0528f-3ab36840-0646-4941-9205-4ea4b0f8a90c-000000@eu-west-1.amazonses.com>",
+                "account_id": "a8253359-983b-4180-bfb0-8f5bcff0ac8a",
+                "created_at": "2022-04-25T08:29:12.691734+00:00",
+                "id": "8856fe08-0352-4122-80cb-05b015b52169",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018051e32b24-bc8bb5d2-6eca-45e6-90f5-9d73628f2e89-000000@eu-west-1.amazonses.com>",
+                "account_id": "5d0875f8-9396-4949-9058-eb5b766d9582",
+                "created_at": "2022-04-25T08:35:25.891091+00:00",
+                "id": "65188a2f-5cf4-430d-824a-f7fcaf44025d",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180477673aa-8128a3d7-fab5-4a59-8ad8-21537f74d768-000000@eu-west-1.amazonses.com>",
+                "account_id": "5e6f0ee5-95a2-404d-9a82-3b78f1f1209d",
+                "created_at": "2022-04-25T08:35:31.795597+00:00",
+                "id": "bb98fad3-8ced-4571-8108-afaa57316c5a",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018047a6a582-b0717be8-c7ef-4bd4-b5ec-780e5565d49c-000000@eu-west-1.amazonses.com>",
+                "account_id": "2c221fe7-5c1d-4d88-aa92-bbffafb83510",
+                "created_at": "2022-04-25T08:35:37.633428+00:00",
+                "id": "a7cd9338-b936-4759-b1a4-1f512c3ac149",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018050915aa5-33d836ed-2277-4bb9-a46e-808ba464bf16-000000@eu-west-1.amazonses.com>",
+                "account_id": "c3020754-5ef3-4463-a9e0-f2b302de9da3",
+                "created_at": "2022-04-25T08:35:37.963088+00:00",
+                "id": "22587abd-ef29-4e86-8ccd-cff5f44dc424",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018051f2c9fa-952f3ac3-2514-484b-b610-714bc37674d7-000000@eu-west-1.amazonses.com>",
+                "account_id": "17160aa8-3235-4032-88d1-09c3b62728a0",
+                "created_at": "2022-04-25T08:35:38.260109+00:00",
+                "id": "16683032-b69f-4b3f-8d42-0540e7540e45",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201804c1dbeab-5c41ac98-de99-4b3d-9859-133d42dadd96-000000@eu-west-1.amazonses.com>",
+                "account_id": "db07d81b-c544-4315-bf86-c86431eb1241",
+                "created_at": "2022-04-25T08:35:45.192978+00:00",
+                "id": "74d5b5e9-eb6c-447c-92ad-9b63ad5153bd",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180509ed921-5558b07f-119b-456e-a2ba-35d3a1256655-000000@eu-west-1.amazonses.com>",
+                "account_id": "bb6a6a47-9734-469b-8a27-c4ca82db14e9",
+                "created_at": "2022-04-25T08:35:45.541501+00:00",
+                "id": "6974bd83-992a-483f-893d-bca77d1bd9bd",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<010201804c3413a6-cd0c2cb8-7506-468e-82ba-ac0c5b94bb09-000000@eu-west-1.amazonses.com>",
+                "account_id": "7d2581b9-4905-42c0-8e4e-fd0b7bcc9ebc",
+                "created_at": "2022-04-25T08:36:35.704013+00:00",
+                "id": "caa788d1-c60d-42e5-8f20-0b2a77bc0b2a",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<01020180516eb227-bc46b480-a125-4405-bad4-9425941acbb5-000000@eu-west-1.amazonses.com>",
+                "account_id": "fc885dc9-ed2d-471f-a865-3821c065f706",
+                "created_at": "2022-04-25T08:36:36.117401+00:00",
+                "id": "7a2fa195-7b73-4e94-a002-ae8ab033b314",
+                "data_point_type": "EMAIL"
+            },
+            {
+                "message_id": "<0102018051fc5a2c-a4d297fe-fe3f-4c79-9a5b-c71e7923cadc-000000@eu-west-1.amazonses.com>",
+                "account_id": "0665273f-e8de-4959-8309-756ddf291e10",
+                "created_at": "2022-04-25T08:36:36.329962+00:00",
+                "id": "e74b5f42-9f9c-41e6-8c38-23ea2c7cc28e",
+                "data_point_type": "EMAIL"
+            }
+        ]
+    }
 }
