@@ -33,29 +33,7 @@ class Tree:
                 else: 
                     tree[node["parent_knowledge_id"]].append(Node(node["title"],node["id"]))
         List(tree, "head")
-        # for node in data : 
-        #     if not node["parent_knowledge_id"]: 
-        #         self.head = Node(node["title"], node["id"])
-        #         depth = 0
-        #         x = []
-        #         x.append(self.head)
-        #     else:
-        #         found = False
-        #         for y in x:
-                    
-        #             if node["parent_knowledge_id"] == y.id:
-        #                 print('found') 
-        #                 y.add(Node(node["title"], node["id"]))
-        #                 found = True
-        #                 break
-        #             if not found: 
-        #                 x1 = []    
-        #                 for y in x: 
-                            
-        #                     x1.append(y.children)
-        #                 x = x1
-       
-        pass 
+        pass
 
 if __name__ == '__main__':
     ll = Tree()
